@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlazarKnight
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning python and c
-- 💞️ I’m looking to collaborate on privacy and security
+- 🌱 I’m currently learning Python and c
+- 💞️ I’m looking to collaborate on privacy, security, and transparentcy 
 - 📫 How to reach me appblazarknight@gmail
 - 😄 Pronouns: he/him
 
