@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and c
 - 💞️ I’m looking to collaborate on privacy, security, and transparentcy 
 - 📫 How to reach me appblazarknight@gmail
-- 😄 Pronouns: he/him
+- 😄 Pronouns: whatever 
 
 <!---
 BlazarKnight/BlazarKnight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
